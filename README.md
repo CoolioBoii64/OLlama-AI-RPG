@@ -10,12 +10,13 @@ You can install both of them at once using your terminal or command prompt:
 
 Bash
 pip install pillow ollama
-⚠️ The Hidden Dependency: The Ollama App
+
+The Hidden Dependency: The Ollama App
 Because this runs locally, the Python package alone isn't enough. You also need the actual Ollama software installed and running on your computer.
 
 If you haven't set that up yet:
 
-Download and install Ollama from their official website.
+Download and install Ollama from their official website. (https://ollama.com/download/windows)
 
 Open your terminal and pull a model so the script has a brain to talk to. For example, to get the default model we used in the code, run:
 
